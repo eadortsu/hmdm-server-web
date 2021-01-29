@@ -664,14 +664,14 @@ document.localization ['de_DE'] = {
     'breadcrumb.config.details': 'Details',
     'breadcrumb.application.versions': 'Versionen',
 
-    'app.name': 'Headwind MDM',
+    'app.name': 'Uniti MDM',
     'app.description': 'ist das Open-Source-Managementsystem für mobile Geräte',
-    'app.title': 'Headwind-MDM-Webpanel',
+    'app.title': 'Uniti-MDM-Webpanel',
 
     'box.show.my.apps.only': 'Nur meine Anwendungen anzeigen',
     'configuration.app.version.upgrade.message': 'Installierte Version ${installedVersion}, verfügbare Version ${latestVersion}',
 
-    'about.line.1': 'MDM-Bedienfeld für Headwind',
+    'about.line.1': 'MDM-Bedienfeld für Uniti',
     'about.line.2': 'Enterprise Launcher für Android',
     'about.line.3': 'Version ${versionNumber}',
     'about.line.4': 'Installierte Plugins',
@@ -682,7 +682,7 @@ document.localization ['de_DE'] = {
     'qrcode.help.line2': 'Gerät auf Werkseinstellungen zurücksetzen',
     'qrcode.help.line3': 'Tippen Sie siebenmal auf eine beliebige Stelle des Startbildschirms (Sie müssen einen versteckten QR-Code-Scanmodus aufrufen)',
     'qrcode.help.line4': 'Befolgen Sie die Anweisungen des Geräts: Akzeptieren Sie die Bedingungen, stellen Sie eine Verbindung zu Wi-Fi her, scannen Sie diesen QR-Code',
-    'qrcode.help.line5': 'Der QR-Code enthält möglicherweise die Geräte-ID für Headwind MDM (Sie müssen sie also nicht auf einem mobilen Gerät eingeben). Um die Geräte-ID in den QR-Code einzubetten, geben Sie die Geräte-ID auf diesem Bildschirm ein und klicken Sie auf "Erneuern". ',
+    'qrcode.help.line5': 'Der QR-Code enthält möglicherweise die Geräte-ID für Uniti MDM (Sie müssen sie also nicht auf einem mobilen Gerät eingeben). Um die Geräte-ID in den QR-Code einzubetten, geben Sie die Geräte-ID auf diesem Bildschirm ein und klicken Sie auf "Erneuern". ',
 
     'form.configuration.app.version.select.select.title': 'Wählen Sie die zu installierende Version aus',
     'form.configuration.app.version.select.version.check.off': 'Versionsprüfung deaktivieren',
@@ -695,7 +695,7 @@ document.localization ['de_DE'] = {
     'tip.step.4': 'Suchen Sie auf der Registerkarte «Geräte» nach einer verfügbaren Geräte-ID. Klicken Sie auf «Erneuern», um es in den QR-Code aufzunehmen. ',
 
     'ie.browser.notice.1': 'Internet Explorer wird leider nicht unterstützt.',
-    'ie.browser.notice.2': 'Empfohlener Browser für die Verwendung von Headwind-MDM - <a href="https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop"> Chrome</a>.',
+    'ie.browser.notice.2': 'Empfohlener Browser für die Verwendung von Uniti-MDM - <a href="https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop"> Chrome</a>.',
 
     'form.resolved.duplicate.pkg.text1': 'Die Paket-ID "${pkg}" wird bereits von den unten aufgeführten Anwendungen verwendet.',
     'form.resolved.duplicate.pkg.text2': 'Möchten Sie eine neue Anwendung oder eine neue Version einer vorhandenen Anwendung hinzufügen?',

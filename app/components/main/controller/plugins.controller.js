@@ -1,9 +1,9 @@
 /*
  *
- * Headwind MDM: Open Source Android MDM Software
- * https://h-mdm.com
+ * Uniti MDM: Android MDM Software
+ *https://www.unitinetworks.com/
  *
- * Copyright (C) 2019 Headwind Solutions LLC (http://h-sms.com)
+ * Copyright (C) 2021 Uniti Networks  (https://www.unitinetworks.com)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
