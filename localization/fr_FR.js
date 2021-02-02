@@ -665,7 +665,7 @@ document.localization ['fr_FR'] = {
     'breadcrumb.application.versions': 'Versions',
 
     'app.name': 'Uniti MDM',
-    'app.description': 'est le système de gestion des appareils mobiles open source',
+    'app.description': 'est le système de gestion des appareils mobiles ',
     'app.title': 'Serveur Uniti MDM',
      
 	'box.show.my.apps.only': 'Afficher uniquement mes applications',

@@ -665,7 +665,7 @@ document.localization ['en_US'] = {
     'breadcrumb.application.versions': 'Versions',
 
     'app.name': 'Uniti MDM',
-    'app.description': 'is the open source mobile device management system',
+    'app.description': 'is the  mobile device management system',
     'app.title': 'Uniti MDM Web Panel',
 
     'box.show.my.apps.only': 'Display my applications only',
